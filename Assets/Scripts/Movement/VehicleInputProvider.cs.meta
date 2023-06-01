@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b6bbebf3a3ace01498248a4e2d6a09da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - actionAsset: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  - wheelReference: {instanceID: 0}
+  - throttleReference: {instanceID: 0}
+  - brakeReference: {instanceID: 0}
+  - joystickReference: {instanceID: 0}
+  - debugT: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
