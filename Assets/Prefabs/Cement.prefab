@@ -245,7 +245,7 @@ BoxCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.46754086, y: 0.28508705, z: 0.32313046}
-  m_Center: {x: 0.0003934793, y: 0.19917224, z: -0.00000008218869}
+  m_Center: {x: 0, y: 0.19917224, z: -0.00000008218869}
 --- !u!1 &6256280079541817407
 GameObject:
   m_ObjectHideFlags: 0
@@ -255,9 +255,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6256280079542176799}
+  - component: {fileID: 1383532515692083277}
   m_Layer: 0
   m_Name: Cement
-  m_TagString: Untagged
+  m_TagString: cargo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -280,6 +281,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1383532515692083277
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6256280079541817407}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.1886512, y: 0.29411417, z: 0.81925684}
+  m_Center: {x: -0.000089009605, y: 0.83835316, z: 0.0019227542}
 --- !u!1001 &2488758085919717868
 PrefabInstance:
   m_ObjectHideFlags: 0

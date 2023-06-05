@@ -7,12 +7,13 @@ using UnityEngine;
 public class StickPallets : MonoBehaviour
 {
     public Transform forklift;
+    private int nbTimes = 0;
 
     Transform getParent()
     {
         Transform p = transform;
 
-        while(p.parent && p.parent.tag != "forklift" && p.parent.tag != "rack")
+        while(p.parent && p.parent.tag != "forklift" && p.parent.tag != "rack" && p.parent.tag != "Begin")
             p = p.parent;
 
         return p;
@@ -20,16 +21,20 @@ public class StickPallets : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "rack" || other.tag == "floor" || other.tag == "cargo")
-        {        
-            Transform p = getParent();
-            p.parent = null;
+        if (other.tag != "forks" && other.tag != "forklift")
+        {
+            if (nbTimes > 0)
+            {
+                Transform p = getParent();
+                p.parent = null;
+            }else
+                nbTimes++;
         }
     }
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.tag == "rack" || other.tag == "floor" || other.tag == "cargo")
+        if (other.tag != "forks" && other.tag != "forklift")
         {
             Transform p = getParent();
             p.parent = forklift;
