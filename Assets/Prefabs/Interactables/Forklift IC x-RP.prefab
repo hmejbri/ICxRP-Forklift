@@ -2963,12 +2963,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 423431dd4b32e044eb4ec7bcafb24a29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forkRig: {fileID: 0}
-  maxY: 0
-  maxX: 0
-  forkLeft: {fileID: 0}
-  forkRight: {fileID: 0}
-  maxSpread: 0
+  forkRig: {fileID: 7834339108236178090}
+  maxY: 10
+  maxX: 10
+  forkLeft: {fileID: 8224538546569484311}
+  forkRight: {fileID: 1285588895061073277}
+  maxSpread: 10
 --- !u!114 &7568523305452529366
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3007,7 +3007,7 @@ MonoBehaviour:
   steeringPower: 50
   speed: 2
   debugEnabled: 1
-  debugT: {fileID: 0}
+  debugT: {fileID: 7568523306137143169}
 --- !u!1 &7341394038063337888
 GameObject:
   m_ObjectHideFlags: 0
