@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5710386621570696278}
   m_Layer: 0
   m_Name: Load_ Backrest
-  m_TagString: forklift
+  m_TagString: forks
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1393,7 +1393,7 @@ GameObject:
   - component: {fileID: 5710386621831986187}
   m_Layer: 0
   m_Name: Fork-Left
-  m_TagString: forklift
+  m_TagString: forks
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1886,7 +1886,7 @@ GameObject:
   - component: {fileID: 2972518819324492828}
   m_Layer: 0
   m_Name: Carriage
-  m_TagString: forklift
+  m_TagString: forks
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2485,7 +2485,7 @@ GameObject:
   - component: {fileID: 6243799087190124048}
   m_Layer: 0
   m_Name: Forks
-  m_TagString: forklift
+  m_TagString: forks
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3099,8 +3099,8 @@ GameObject:
   - component: {fileID: 5710386621552785708}
   - component: {fileID: 5710386621552785709}
   m_Layer: 0
-  m_Name: GameObject
-  m_TagString: forklift
+  m_Name: Upper part
+  m_TagString: forks
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3176,8 +3176,8 @@ GameObject:
   - component: {fileID: 5710386622562954501}
   - component: {fileID: 5710386622562954498}
   m_Layer: 0
-  m_Name: GameObject
-  m_TagString: forklift
+  m_Name: Upper part
+  m_TagString: forks
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3873,7 +3873,7 @@ GameObject:
   - component: {fileID: 4026431311938542752}
   m_Layer: 0
   m_Name: Fork-Right
-  m_TagString: forklift
+  m_TagString: forks
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

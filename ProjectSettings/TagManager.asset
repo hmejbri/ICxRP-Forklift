@@ -9,6 +9,8 @@ TagManager:
   - forklift
   - rack
   - pallet
+  - forks
+  - Begin
   layers:
   - Default
   - TransparentFX
