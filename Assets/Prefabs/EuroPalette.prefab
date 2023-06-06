@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8792529469912882645}
   m_Layer: 0
   m_Name: Square
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43,8 +43,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.052696086, y: 0.03253776, z: 0.03857087}
-  m_Center: {x: 0.21026617, y: 0.023731122, z: -0.13819554}
+  m_Size: {x: 0.052696086, y: 0.033, z: 0.03857087}
+  m_Center: {x: 0.21026617, y: 0.025, z: -0.13819554}
 --- !u!1 &145896308732899582
 GameObject:
   m_ObjectHideFlags: 0
@@ -57,7 +57,7 @@ GameObject:
   - component: {fileID: 619656728047745078}
   m_Layer: 0
   m_Name: Bottom
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -88,8 +88,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.47244126, y: 0.012513954, z: 0.31496087}
-  m_Center: {x: 0.00039358358, y: 0.007, z: 0.000000051703843}
+  m_Size: {x: 0.4724412, y: 0.0071365107, z: 0.31496087}
+  m_Center: {x: 0.00039357838, y: 0.004311276, z: 0.00000004693279}
 --- !u!1 &544072839488387694
 GameObject:
   m_ObjectHideFlags: 0
@@ -102,7 +102,7 @@ GameObject:
   - component: {fileID: 4576793909530426242}
   m_Layer: 0
   m_Name: Square (2)
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -133,8 +133,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.052696086, y: 0.03253776, z: 0.03880705}
-  m_Center: {x: -0.199, y: 0.023731122, z: -0.13807738}
+  m_Size: {x: 0.052696086, y: 0.033, z: 0.03880705}
+  m_Center: {x: -0.199, y: 0.025, z: -0.13807738}
 --- !u!1 &1537398440274507324
 GameObject:
   m_ObjectHideFlags: 0
@@ -146,7 +146,7 @@ GameObject:
   - component: {fileID: 5136543768364617978}
   m_Layer: 0
   m_Name: Squares
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -187,7 +187,7 @@ GameObject:
   - component: {fileID: 3655727114617801482}
   m_Layer: 0
   m_Name: Square (1)
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -218,8 +218,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.052696086, y: 0.03253776, z: 0.03880705}
-  m_Center: {x: 0.009999999, y: 0.023731122, z: -0.13807738}
+  m_Size: {x: 0.052696086, y: 0.033, z: 0.03880705}
+  m_Center: {x: 0.009999999, y: 0.025, z: -0.13807738}
 --- !u!1 &4457971153703230097
 GameObject:
   m_ObjectHideFlags: 0
@@ -232,7 +232,7 @@ GameObject:
   - component: {fileID: 8992814679612350349}
   m_Layer: 0
   m_Name: Square (6)
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -263,8 +263,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.052696086, y: 0.031716436, z: 0.03857087}
-  m_Center: {x: 0.21026617, y: 0.024141781, z: -0.13819556}
+  m_Size: {x: 0.052696086, y: 0.033, z: 0.03857087}
+  m_Center: {x: 0.21026617, y: 0.025, z: -0.13819556}
 --- !u!1 &4851923446632766090
 GameObject:
   m_ObjectHideFlags: 0
@@ -277,7 +277,7 @@ GameObject:
   - component: {fileID: 8483544397998681472}
   m_Layer: 0
   m_Name: Square (7)
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -308,8 +308,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.052696086, y: 0.03253776, z: 0.03880705}
-  m_Center: {x: 0.009999999, y: 0.023731122, z: -0.13807738}
+  m_Size: {x: 0.052696086, y: 0.033, z: 0.03880705}
+  m_Center: {x: 0.009999999, y: 0.025, z: -0.13807738}
 --- !u!1 &5452028032864591706
 GameObject:
   m_ObjectHideFlags: 0
@@ -322,7 +322,7 @@ GameObject:
   - component: {fileID: 5195201903462070676}
   m_Layer: 0
   m_Name: Square (3)
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -353,8 +353,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.052696086, y: 0.031220064, z: 0.053100053}
-  m_Center: {x: 0.21026617, y: 0.023737207, z: -0.14008613}
+  m_Size: {x: 0.052696086, y: 0.033, z: 0.053100053}
+  m_Center: {x: 0.21026617, y: 0.025, z: -0.14008613}
 --- !u!1 &5774744307654699874
 GameObject:
   m_ObjectHideFlags: 0
@@ -367,7 +367,7 @@ GameObject:
   - component: {fileID: 2568083643429872067}
   m_Layer: 0
   m_Name: Square (5)
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -398,8 +398,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.052696086, y: 0.03155547, z: 0.053089384}
-  m_Center: {x: -0.19900002, y: 0.02323997, z: -0.1399563}
+  m_Size: {x: 0.052696086, y: 0.033, z: 0.053089384}
+  m_Center: {x: -0.19900002, y: 0.025, z: -0.1399563}
 --- !u!1 &7936112718460474871
 GameObject:
   m_ObjectHideFlags: 0
@@ -412,7 +412,7 @@ GameObject:
   - component: {fileID: 3942003011992390031}
   m_Layer: 0
   m_Name: Square (8)
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -443,8 +443,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.052696086, y: 0.03253776, z: 0.03880705}
-  m_Center: {x: -0.199, y: 0.023731122, z: -0.13807738}
+  m_Size: {x: 0.052696086, y: 0.033, z: 0.03880705}
+  m_Center: {x: -0.199, y: 0.025, z: -0.13807738}
 --- !u!1 &8384327973944256983
 GameObject:
   m_ObjectHideFlags: 0
@@ -457,11 +457,11 @@ GameObject:
   - component: {fileID: 8384327973945390549}
   - component: {fileID: 8384327973946521365}
   - component: {fileID: 402782211098372628}
-  - component: {fileID: 4796548976571470471}
-  - component: {fileID: 5959509755507141772}
+  - component: {fileID: 5359302468049767509}
+  - component: {fileID: 5432869114578871357}
   m_Layer: 0
   m_Name: EuroPalette
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -550,7 +550,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &4796548976571470471
+--- !u!114 &5359302468049767509
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -562,10 +562,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff42693d7227be845b56a40b748ca3e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  grounded: 1
-  lifted: 0
   forklift: {fileID: 0}
---- !u!65 &5959509755507141772
+--- !u!65 &5432869114578871357
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -576,8 +574,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.47244126, y: 0.061837804, z: 0.31496087}
-  m_Center: {x: 0.00039358358, y: 0.024199262, z: 0.00000005294013}
+  m_Size: {x: 0.4724412, y: 0.02973832, z: 0.31496078}
+  m_Center: {x: 0.00039357838, y: 0.009047205, z: 0.000000046932794}
 --- !u!1 &8797772663397510226
 GameObject:
   m_ObjectHideFlags: 0
@@ -590,7 +588,7 @@ GameObject:
   - component: {fileID: 974865876168765173}
   m_Layer: 0
   m_Name: Top
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -603,8 +601,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8797772663397510226}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.2916e-11, y: -0.0032943, z: 9.629e-12}
-  m_LocalScale: {x: 1, y: 1.0674, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8384327973944620535}
@@ -621,8 +619,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.47244126, y: 0.012513954, z: 0.31496087}
-  m_Center: {x: 0.00039358358, y: 0.048861176, z: 0.000000051703843}
+  m_Size: {x: 0.4724412, y: 0.015425256, z: 0.31496087}
+  m_Center: {x: 0.00039357838, y: 0.048607316, z: 0.00000004693279}
 --- !u!1 &8871125012757725219
 GameObject:
   m_ObjectHideFlags: 0
@@ -635,7 +633,7 @@ GameObject:
   - component: {fileID: 5863088161087833431}
   m_Layer: 0
   m_Name: Square (4)
-  m_TagString: cargo
+  m_TagString: pallet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -666,5 +664,5 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.052696086, y: 0.031060629, z: 0.0537177}
-  m_Center: {x: 0.009999999, y: 0.023882175, z: -0.14002338}
+  m_Size: {x: 0.052696086, y: 0.033, z: 0.0537177}
+  m_Center: {x: 0.009999999, y: 0.025, z: -0.14002338}

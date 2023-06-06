@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - cargo
+  - floor
+  - forklift
+  - rack
+  - pallet
+  - forks
+  - Begin
   layers:
   - Default
   - TransparentFX

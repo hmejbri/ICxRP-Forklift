@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 229334251761544755}
   m_Layer: 0
   m_Name: Single_PalletPack
-  m_TagString: Untagged
+  m_TagString: floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 1961864509350301119}
   m_Layer: 0
   m_Name: Shelf_01
-  m_TagString: rack
+  m_TagString: floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 1364679936992099778}
   m_Layer: 0
   m_Name: Shelf_02
-  m_TagString: rack
+  m_TagString: floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -328,7 +328,7 @@ GameObject:
   - component: {fileID: 6538681269141857177}
   m_Layer: 0
   m_Name: Shelf_03
-  m_TagString: rack
+  m_TagString: floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -423,7 +423,7 @@ GameObject:
   - component: {fileID: 3986798985067344622}
   m_Layer: 0
   m_Name: collider1
-  m_TagString: Untagged
+  m_TagString: floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -468,7 +468,7 @@ GameObject:
   - component: {fileID: 3865097710299271568}
   m_Layer: 0
   m_Name: collider2
-  m_TagString: Untagged
+  m_TagString: floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
