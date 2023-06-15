@@ -3,14 +3,22 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
+/* This script is a part of the ready-made scripts that TGL
+ * provided us with. It handles vehicle movement in Unity at
+ * runtime.
+ * 
+ * Last edited 01/06/2023 By Micael
+ *  - Added comments
+ */
+
 [RequireComponent(typeof(VehicleInputProvider))]
 public class VehicleControl : MonoBehaviour
 {
-    VehicleInputProvider input;
-    private float Wheel => input.WheelInput;
-    private float Throttle => usingWheelAndPedals ? LerpedInput(1, 0, input.ThrottleInput) : input.ThrottleInput;
-    private float Brake => usingWheelAndPedals ? LerpedInput(0, 1, input.BrakeInput) : input.BrakeInput;
-    private Vector2 Stick => input.JoystickInput;
+    VehicleInputProvider inputProvider;
+    private float Wheel => inputProvider.WheelInput;
+    private float Throttle => usingWheelAndPedals ? LerpedInput(1, 0, inputProvider.ThrottleInput) : inputProvider.ThrottleInput;
+    private float Brake => usingWheelAndPedals ? LerpedInput(0, 1, inputProvider.BrakeInput) : inputProvider.BrakeInput;
+    private Vector2 Stick => inputProvider.JoystickInput;
 
     [Header("Main")]
     [SerializeField] private Transform steeringWheel;
@@ -18,7 +26,7 @@ public class VehicleControl : MonoBehaviour
     [SerializeField] private float wheelMaxValue = 0.707f;
 
     [Header("Settings")]
-    [SerializeField] public bool usingWheelAndPedals = true;
+    [SerializeField] private bool usingWheelAndPedals = true;
     [SerializeField] private float steeringPower = 50f;
     [SerializeField] private float speed = 2f;
 
@@ -28,19 +36,21 @@ public class VehicleControl : MonoBehaviour
 
     private void Awake()
     {
-        input = GetComponent<VehicleInputProvider>();
+        inputProvider = GetComponent<VehicleInputProvider>();
 
         if (!debugEnabled && debugT)
             debugT.text = " ";
     }
     private void Update()
     {
+        // Throttle & brake
         float velocity = Throttle - Brake;
         if (velocity > 0.01f || velocity < -0.01f)
             transform.Rotate(0, Wheel * steeringPower * Time.deltaTime, 0);
 
         transform.position += transform.forward * velocity * speed * Time.deltaTime;
 
+        // Steering wheel
         if (steeringWheel)
         {
             Vector3 wheelRotation = steeringWheel.localEulerAngles;
@@ -56,7 +66,11 @@ public class VehicleControl : MonoBehaviour
     }
     private float LerpedInput(float a, float b, float inputValue)
     {
-        return input.enabled ? Mathf.Lerp(a, b, (inputValue + 1) / 2) : 0;
+        return inputProvider.enabled ? Mathf.Lerp(a, b, (inputValue + 1) / 2) : 0;
     }
-    private void UpdateDebug() => debugT.text = $"Wheel: {Wheel:F3}\nThrottle: {Throttle:F3}\nBrake: {Brake:F3}\nStick: {Stick:F3}";
+    private void UpdateDebug()
+        => debugT.text = $"Wheel: {Wheel:F3}\n" +
+                         $"Throttle: {Throttle:F3}\n" +
+                         $"Brake: {Brake:F3}\n" +
+                         $"Stick: {Stick:F3}";
 }

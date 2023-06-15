@@ -4,8 +4,17 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
 
+/* This script is a part of the ready-made scripts that TGL
+ * provided us with. It handles inputs for the vehicle driving
+ * and also includes value references for debugging
+ * 
+ * Last edited 01/06/2023 By Micael
+ *  - Added comments
+ */
+
 public class VehicleInputProvider : MonoBehaviour
 {
+    // Reference: Assets/ScriptableObjects/Inputs/Vehicle Input Actions
     [Header("Main Input")]
     [SerializeField] private InputActionAsset actionAsset;
     [SerializeField] private InputActionReference wheelReference;
@@ -24,6 +33,11 @@ public class VehicleInputProvider : MonoBehaviour
     private float brakeInput;
     private Vector2 joystickInput;
 
+    /* If enabled, give wheelInput value to WheelInput, otherwise give value 0. Works as a getter
+     * to stay updated in runtime. This took me an insanely long time to understand, refer to
+     * ternary operators for more info
+     * - Micael
+     */
     public float WheelInput => enabled ? wheelInput : 0;
     public float ThrottleInput => enabled ? throttleInput : 0;
     public float BrakeInput => enabled ? brakeInput : 0;
@@ -51,5 +65,9 @@ public class VehicleInputProvider : MonoBehaviour
         if (debugEnabled)
             UpdateDebug();
     }
-    private void UpdateDebug() => debugT.text = $"Wheel: {WheelInput:F3}\nThrottle: {ThrottleInput:F3}\nBrake: {BrakeInput:F3}\nJoystick: {JoystickInput}";
+    private void UpdateDebug()
+        => debugT.text = $"Wheel: {WheelInput:F3}\n" +
+                         $"Throttle: {ThrottleInput:F3}\n" +
+                         $"Brake: {BrakeInput:F3}\n" +
+                         $"Joystick: {JoystickInput}";
 }
