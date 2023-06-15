@@ -5,6 +5,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 6652171264369352167, guid: f4d6ddecf720a9f40a1f432f2dad6a27, type: 3}
@@ -65,7 +66,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8384327973944256983, guid: f4d6ddecf720a9f40a1f432f2dad6a27, type: 3}
       propertyPath: m_Name
-      value: Large pallet
+      value: Large pallet Variant
       objectReference: {fileID: 0}
     - target: {fileID: 8384327973944620535, guid: f4d6ddecf720a9f40a1f432f2dad6a27, type: 3}
       propertyPath: m_RootOrder
@@ -112,4 +113,7 @@ PrefabInstance:
       value: 90
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4d6ddecf720a9f40a1f432f2dad6a27, type: 3}
