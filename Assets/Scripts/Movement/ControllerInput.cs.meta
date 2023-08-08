@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/VR/recenterOrigin.cs.meta
+guid: 5b39322b6d9422c4eb111c1f7da9d1b2
+========
+guid: 688ac6dd5b63fe340bd6b36571af46af
+>>>>>>>> 01dd9ed81ffff75aac9b5dbf97c7822ea1a2fab0:Assets/Scripts/Movement/ControllerInput.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

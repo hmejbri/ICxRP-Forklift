@@ -43,7 +43,7 @@ public class Step3: MonoBehaviour
         step4.SetActive(true);
     }
 
-        IEnumerator FadeIn()
+    IEnumerator FadeIn()
     {
         for (float alpha = 0f; alpha < 212; alpha += 2 * Time.deltaTime)
         {
