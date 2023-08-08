@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Lifting/ForkAnimation.cs.meta
+guid: d17a52f6a3da1f147af2ff52d4b51d17
+========
+guid: 470d7e82f1898fd44ad85fcfc0c19231
+>>>>>>>> 01dd9ed81ffff75aac9b5dbf97c7822ea1a2fab0:Assets/Scripts/ControllerTest.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

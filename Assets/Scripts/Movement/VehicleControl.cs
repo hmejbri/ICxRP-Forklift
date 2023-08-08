@@ -15,10 +15,10 @@ using TMPro;
 public class VehicleControl : MonoBehaviour
 {
     VehicleInputProvider inputProvider;
-    private float Wheel => inputProvider.WheelInput;
-    private float Throttle => usingWheelAndPedals ? LerpedInput(1, 0, inputProvider.ThrottleInput) : inputProvider.ThrottleInput;
-    private float Brake => usingWheelAndPedals ? LerpedInput(0, 1, inputProvider.BrakeInput) : inputProvider.BrakeInput;
-    private Vector2 Stick => inputProvider.JoystickInput;
+    private float Wheel => inputProvider.wheelInput;
+    private float Throttle => usingWheelAndPedals ? LerpedInput(1, 0, inputProvider.throttleInput) : inputProvider.throttleInput;
+    private float Brake => usingWheelAndPedals ? LerpedInput(0, 1, inputProvider.brakeInput) : inputProvider.brakeInput;
+    private Vector2 Stick => inputProvider.joystickInput;
 
     [Header("Main")]
     [SerializeField] private Transform steeringWheel;

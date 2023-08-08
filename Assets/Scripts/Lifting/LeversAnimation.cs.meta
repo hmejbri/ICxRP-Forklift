@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Lifting/ForkAnimation.cs.meta
 guid: 6a45018e711d7854bbe9c2f193bab83e
+========
+guid: 470d7e82f1898fd44ad85fcfc0c19231
+>>>>>>>> 01dd9ed81ffff75aac9b5dbf97c7822ea1a2fab0:Assets/Scripts/ControllerTest.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

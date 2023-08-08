@@ -3,7 +3,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//This script prevents pallets from dropping from the forks
+/* This script prevents pallets from dropping from the forks
+ * 
+ * last editor : Houssem
+ */
+
 public class StickPallets : MonoBehaviour
 {
     public Transform forklift;
@@ -26,7 +30,7 @@ public class StickPallets : MonoBehaviour
     {
         if (other.tag != "forks" && other.tag != "forklift")
         {
-            //Test so the objects parents wont be null with the first collision with floor/rach
+            //Test so the objects parents wont be null with the first collision with floor/rack
             if (nbTimes > 0)
             {
                 //if the object touches the floor, rack.. then its grounded again so its parent will be set to null

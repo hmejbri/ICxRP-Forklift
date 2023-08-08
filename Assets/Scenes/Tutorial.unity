@@ -134,11 +134,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (1)
@@ -206,11 +206,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -232,11 +232,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (6)
@@ -304,11 +304,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -330,11 +330,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement
@@ -402,11 +402,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -489,11 +489,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (2)
@@ -561,11 +561,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -587,11 +587,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (7)
@@ -655,11 +655,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -670,120 +670,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 54057893}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &60723577
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 60723578}
-  - component: {fileID: 60723580}
-  - component: {fileID: 60723579}
-  m_Layer: 5
-  m_Name: Panel3
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &60723578
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 60723577}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 580829059}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.0004119873, y: -0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &60723579
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 60723577}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.9803922, g: 0.7686275, b: 0.22352943, a: 0}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &60723580
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 60723577}
-  m_CullTransparentMesh: 1
---- !u!1 &63367997
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 63367998}
-  m_Layer: 5
-  m_Name: second step
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &63367998
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 63367997}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 2001303737}
-  - {fileID: 1271816740}
-  m_Father: {fileID: 1288139906}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &91635831
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -795,11 +681,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (1)
@@ -867,11 +753,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -893,11 +779,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (1)
@@ -965,11 +851,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1097,11 +983,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (5)
@@ -1169,11 +1055,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1184,6 +1070,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 125198115}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &126194293 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4440618168933506841, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &128749857
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1264,90 +1161,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 866136301}
   m_SourcePrefab: {fileID: 100100000, guid: 6e0bb56a6489498419892f93fa348f9a, type: 3}
---- !u!1 &138063492
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 138063493}
-  - component: {fileID: 138063495}
-  - component: {fileID: 138063494}
-  - component: {fileID: 138063496}
-  m_Layer: 0
-  m_Name: XR Origin
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &138063493
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 138063492}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.032, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1288139906}
-  - {fileID: 1877185894}
-  m_Father: {fileID: 1825946790}
-  m_RootOrder: -1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &138063494
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 138063492}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 017c5e3933235514c9520e1dace2a4b2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_ActionAssets:
-  - {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
---- !u!114 &138063495
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 138063492}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e0cb9aa70a22847b5925ee5f067c10a9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Camera: {fileID: 1860620279}
-  m_OriginBaseGameObject: {fileID: 138063492}
-  m_CameraFloorOffsetObject: {fileID: 1877185893}
-  m_RequestedTrackingOriginMode: 0
-  m_CameraYOffset: 1.1176
---- !u!114 &138063496
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 138063492}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc9cad5ec0793f2498bf8b7ca1963d0b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  resetTransform: {fileID: 1647566709}
-  player: {fileID: 138063492}
-  playerHead: {fileID: 1860620279}
-  canvas: {fileID: 1288139901}
-  canvasTarget: {fileID: 962836812}
 --- !u!1001 &152696929
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1359,11 +1172,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (4)
@@ -1431,11 +1244,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1452,11 +1265,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement
@@ -1524,11 +1337,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1555,11 +1368,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement
@@ -1627,11 +1440,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1653,11 +1466,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (7)
@@ -1721,11 +1534,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1833,11 +1646,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (7)
@@ -1905,11 +1718,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2003,7 +1816,7 @@ PrefabInstance:
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2023,11 +1836,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (7)
@@ -2091,11 +1904,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2117,11 +1930,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (2)
@@ -2189,11 +2002,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2327,11 +2140,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (5)
@@ -2399,11 +2212,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2420,11 +2233,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (3)
@@ -2492,11 +2305,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2642,91 +2455,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &283169809
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 283169810}
-  - component: {fileID: 283169812}
-  - component: {fileID: 283169811}
-  m_Layer: 5
-  m_Name: Text3
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &283169810
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 283169809}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.03, y: 0.03, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 580829059}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 101.4, y: 99}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &283169811
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 283169809}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 12800000, guid: 30dc370b164eefc43b95744fc796dad0, type: 3}
-    m_FontSize: 150
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 1
-    m_MaxSize: 150
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 2.5
-  m_Text: 'Moving on to the forklift controls :
-
-    -Use the first lever to move
-    the forks
-
-    up and down.'
---- !u!222 &283169812
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 283169809}
-  m_CullTransparentMesh: 1
 --- !u!1 &295723316 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 6e0bb56a6489498419892f93fa348f9a, type: 3}
@@ -2770,11 +2498,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (4)
@@ -2842,11 +2570,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2873,11 +2601,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (4)
@@ -2945,11 +2673,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2971,11 +2699,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (8)
@@ -3039,11 +2767,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3054,177 +2782,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 341398291}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &350086058
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4899414679150418513, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_Name
-      value: Forklift
-      objectReference: {fileID: 0}
-    - target: {fileID: 4899414679150418526, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_Mass
-      value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 4899414679150418526, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_Constraints
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4899414679150418526, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -41.96
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.30000246
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -11.99
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124145, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124157, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_ClearFlags
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124159, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_PositionInput.m_Action.m_Id
-      value: d4fd1167-9287-43f0-8466-8cbedddb8cb5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124159, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_RotationInput.m_Action.m_Id
-      value: fbddab89-c7ab-4c4b-8dae-b05889d479f4
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124159, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_PositionInput.m_Action.m_Name
-      value: Position Input
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124159, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_RotationInput.m_Action.m_Name
-      value: Rotation Input
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124159, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_TrackingStateInput.m_Action.m_Id
-      value: c3d70660-b611-400f-96c0-0fd1e98924de
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124159, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_TrackingStateInput.m_Action.m_Name
-      value: Tracking State Input
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124159, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_PositionInput.m_Action.m_SingletonActionBindings.Array.data[0].m_Id
-      value: 289fe10f-67a3-40cf-9501-cb40d1792982
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386621283124159, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_RotationInput.m_Action.m_SingletonActionBindings.Array.data[0].m_Id
-      value: 88217add-a96a-4eb9-825a-16ca8ae253c7
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622241518314, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: maxY
-      value: 14.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622241518314, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: forkRigSpeedY
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622975156392, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_CameraYOffset
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622975156394, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622975156395, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.07
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622975156395, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622975156395, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.49
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622975156395, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622975156395, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5710386622975156395, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6783499865543943948, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.2
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4899414679150418527, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-    m_RemovedGameObjects:
-    - {fileID: 5710386622975156394, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 138063493}
-    - targetCorrespondingSourceObject: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1365838551}
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 7287037788280138916, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 983792814}
-    - targetCorrespondingSourceObject: {fileID: 7287037788280138916, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 983792815}
-  m_SourcePrefab: {fileID: 100100000, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
 --- !u!1001 &358546611
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3236,11 +2793,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (8)
@@ -3304,11 +2861,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3497,11 +3054,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (5)
@@ -3569,11 +3126,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3764,11 +3321,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (8)
@@ -3832,11 +3389,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3858,11 +3415,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (1)
@@ -3930,11 +3487,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3945,44 +3502,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 498717123}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &503029050
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 503029051}
-  m_Layer: 5
-  m_Name: first step
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &503029051
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 503029050}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1842296798}
-  - {fileID: 1004954158}
-  m_Father: {fileID: 1288139906}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &503616110 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3372522033569347474, guid: e6434c541ea22a54bb69beb282653f27, type: 3}
@@ -4015,82 +3534,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8219150504593499409, guid: 0a6f99340ec22914c890fc24ec487afc, type: 3}
   m_PrefabInstance: {fileID: 529539388}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &509885345
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 509885346}
-  - component: {fileID: 509885348}
-  - component: {fileID: 509885347}
-  m_Layer: 5
-  m_Name: Panel4
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &509885346
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 509885345}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 930181217}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.0004119873, y: -0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &509885347
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 509885345}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.7202073, b: 0, a: 0}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &509885348
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 509885345}
-  m_CullTransparentMesh: 1
 --- !u!1001 &528215942
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4102,11 +3545,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (3)
@@ -4174,11 +3617,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4250,6 +3693,22 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a6f99340ec22914c890fc24ec487afc, type: 3}
+--- !u!1 &532492174 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7993401581695787685, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &547495548 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4989032766192604783, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &550737751
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4261,11 +3720,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (5)
@@ -4333,11 +3792,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4585,44 +4044,6 @@ Transform:
   m_Father: {fileID: 419329114}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &580829058
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 580829059}
-  m_Layer: 5
-  m_Name: third step
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &580829059
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 580829058}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 60723578}
-  - {fileID: 283169810}
-  m_Father: {fileID: 1288139906}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &582504662
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4794,11 +4215,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (6)
@@ -4866,11 +4287,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4892,11 +4313,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement
@@ -4964,11 +4385,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4990,11 +4411,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (4)
@@ -5062,11 +4483,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5088,11 +4509,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (6)
@@ -5156,11 +4577,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5408,11 +4829,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (2)
@@ -5480,11 +4901,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5506,11 +4927,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (1)
@@ -5578,11 +4999,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5680,11 +5101,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (7)
@@ -5748,11 +5169,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5840,11 +5261,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement
@@ -5912,11 +5333,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6188,9 +5609,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af46e16043954cd4b9211c126c8401e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: {fileID: 1271816742}
-  panel: {fileID: 2001303738}
-  step: {fileID: 63367997}
+  text: {fileID: 126194293}
+  panel: {fileID: 1951220752}
+  step: {fileID: 1152177459}
   nextStep: {fileID: 1261939094}
 --- !u!65 &807183607
 BoxCollider:
@@ -6224,11 +5645,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (1)
@@ -6296,11 +5717,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6383,11 +5804,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (2)
@@ -6455,11 +5876,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6676,11 +6097,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (3)
@@ -6748,11 +6169,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6763,44 +6184,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 911603401}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &930181216
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 930181217}
-  m_Layer: 5
-  m_Name: final view
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &930181217
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 930181216}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 509885346}
-  - {fileID: 1426578222}
-  m_Father: {fileID: 1288139906}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &939670092
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6812,11 +6195,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (5)
@@ -6884,11 +6267,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6910,11 +6293,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (8)
@@ -6978,11 +6361,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7035,11 +6418,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (7)
@@ -7103,11 +6486,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7118,44 +6501,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8219150504593499409, guid: 0a6f99340ec22914c890fc24ec487afc, type: 3}
   m_PrefabInstance: {fileID: 22501916}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &983792812 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7287037788280138916, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-  m_PrefabInstance: {fileID: 350086058}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &983792814
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 983792812}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6a45018e711d7854bbe9c2f193bab83e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  inputProvider: {fileID: 1825946792}
-  lever1: {fileID: 1455039877}
---- !u!114 &983792815
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 983792812}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6bbebf3a3ace01498248a4e2d6a09da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  actionAsset: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  wheelReference: {fileID: -5353648533306546050, guid: 83c8556f946e5d34791882318701b466, type: 3}
-  throttleReference: {fileID: -7238929495583442817, guid: 83c8556f946e5d34791882318701b466, type: 3}
-  brakeReference: {fileID: 7833024955656051864, guid: 83c8556f946e5d34791882318701b466, type: 3}
-  joystickReference: {fileID: -4842571634494827634, guid: 83c8556f946e5d34791882318701b466, type: 3}
-  debugEnabled: 0
-  debugT: {fileID: 0}
 --- !u!1 &988554575
 GameObject:
   m_ObjectHideFlags: 0
@@ -7191,87 +6536,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1004954157
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1004954158}
-  - component: {fileID: 1004954160}
-  - component: {fileID: 1004954159}
-  m_Layer: 5
-  m_Name: Text1
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1004954158
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1004954157}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.03, y: 0.03, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 503029051}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 101.4, y: 99}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1004954159
+--- !u!114 &996319488 stripped
 MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 14769302591387721, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1004954157}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Script: {fileID: 11500000, guid: dc4ba7003215c654c8ad48e75e8029d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.83137256}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 12800000, guid: 30dc370b164eefc43b95744fc796dad0, type: 3}
-    m_FontSize: 150
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 1
-    m_MaxSize: 150
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 2.5
-  m_Text: "Goal : Move forward to the green area\nSteps :\n1- Switch the gear to
-    forward.\r\n2- Press on the accelerator pedal.\r"
---- !u!222 &1004954160
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1004954157}
-  m_CullTransparentMesh: 1
 --- !u!1001 &1005115150
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7283,11 +6558,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (7)
@@ -7351,11 +6626,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7404,11 +6679,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (4)
@@ -7476,11 +6751,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7567,11 +6842,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (5)
@@ -7639,11 +6914,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7754,11 +7029,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (6)
@@ -7826,11 +7101,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7852,11 +7127,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (6)
@@ -7920,11 +7195,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7946,11 +7221,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (1)
@@ -8018,11 +7293,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8145,6 +7420,11 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1826241265}
   m_SourcePrefab: {fileID: 100100000, guid: 6e0bb56a6489498419892f93fa348f9a, type: 3}
+--- !u!1 &1108099710 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5216419832225701198, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1125132652
 GameObject:
   m_ObjectHideFlags: 0
@@ -8303,6 +7583,11 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
+--- !u!1 &1152177459 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1924259860679834887, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1156148270
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8451,11 +7736,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (4)
@@ -8523,11 +7808,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8549,11 +7834,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (7)
@@ -8617,11 +7902,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8643,11 +7928,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (6)
@@ -8711,11 +7996,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8828,11 +8113,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (3)
@@ -8900,11 +8185,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8926,11 +8211,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (8)
@@ -8998,11 +8283,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9060,9 +8345,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e3f03701347ca045baee7a76558585c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: {fileID: 283169811}
-  panel: {fileID: 60723579}
-  step: {fileID: 580829058}
+  text: {fileID: 1356099042}
+  panel: {fileID: 547495548}
+  step: {fileID: 1654553262}
   step4: {fileID: 1577519504}
 --- !u!65 &1261939101
 BoxCollider:
@@ -9096,11 +8381,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (3)
@@ -9168,11 +8453,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9183,213 +8468,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 1266606154}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1271816739
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1271816740}
-  - component: {fileID: 1271816741}
-  - component: {fileID: 1271816742}
-  m_Layer: 5
-  m_Name: Text2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1271816740
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1271816739}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.03, y: 0.03, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 63367998}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 101.4, y: 99}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &1271816741
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1271816739}
-  m_CullTransparentMesh: 1
---- !u!114 &1271816742
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1271816739}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 12800000, guid: 30dc370b164eefc43b95744fc796dad0, type: 3}
-    m_FontSize: 150
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 1
-    m_MaxSize: 150
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 2.5
-  m_Text: "Goal : Move backwards to the next green area\nSteps :\n1- Switch the gear
-    to backward.\r\n2- Press on the accelerator pedal.\r"
---- !u!1 &1288139901
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1288139906}
-  - component: {fileID: 1288139905}
-  - component: {fileID: 1288139904}
-  - component: {fileID: 1288139903}
-  - component: {fileID: 1288139902}
-  m_Layer: 5
-  m_Name: Canvas
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1288139902
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1288139901}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 0
-  m_CheckFor2DOcclusion: 0
-  m_CheckFor3DOcclusion: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RaycastTriggerInteraction: 1
---- !u!114 &1288139903
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1288139901}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
---- !u!114 &1288139904
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1288139901}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
-  m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
-  m_PhysicalUnit: 3
-  m_FallbackScreenDPI: 96
-  m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
---- !u!223 &1288139905
-Canvas:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1288139901}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_RenderMode: 2
-  m_Camera: {fileID: 1860620279}
-  m_PlaneDistance: 100
-  m_PixelPerfect: 0
-  m_ReceivesEvents: 1
-  m_OverrideSorting: 0
-  m_OverridePixelPerfect: 0
-  m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 0
-  m_UpdateRectTransformForStandalone: 0
-  m_SortingLayerID: 0
-  m_SortingOrder: 0
-  m_TargetDisplay: 0
---- !u!224 &1288139906
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1288139901}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1.283}
-  m_LocalScale: {x: 0.005, y: 0.005, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 503029051}
-  - {fileID: 63367998}
-  - {fileID: 580829059}
-  - {fileID: 930181217}
-  m_Father: {fileID: 138063493}
-  m_RootOrder: -1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.209, y: -0.472}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1299218155
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9474,11 +8552,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (7)
@@ -9546,11 +8624,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9759,6 +8837,17 @@ Transform:
   m_Father: {fileID: 1839181353}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1356099042 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7318235176529193566, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1365336001
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9839,143 +8928,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1919344570}
   m_SourcePrefab: {fileID: 100100000, guid: 6e0bb56a6489498419892f93fa348f9a, type: 3}
---- !u!1 &1365838550
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1365838551}
-  - component: {fileID: 1365838554}
-  - component: {fileID: 1365838553}
-  - component: {fileID: 1365838552}
-  m_Layer: 0
-  m_Name: Camera
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!4 &1365838551
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1365838550}
-  m_LocalRotation: {x: 0.2326816, y: 0, z: 0, w: 0.972553}
-  m_LocalPosition: {x: 0.2, y: 1.77, z: 0.7}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1825946790}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 26.91, y: 0, z: 0}
---- !u!114 &1365838552
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1365838550}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_RenderShadows: 1
-  m_RequiresDepthTextureOption: 2
-  m_RequiresOpaqueTextureOption: 2
-  m_CameraType: 0
-  m_Cameras: []
-  m_RendererIndex: -1
-  m_VolumeLayerMask:
-    serializedVersion: 2
-    m_Bits: 1
-  m_VolumeTrigger: {fileID: 0}
-  m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
-  m_Antialiasing: 0
-  m_AntialiasingQuality: 2
-  m_StopNaN: 0
-  m_Dithering: 0
-  m_ClearDepth: 1
-  m_AllowXRRendering: 1
-  m_AllowHDROutput: 1
-  m_UseScreenCoordOverride: 0
-  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
-  m_RequiresDepthTexture: 0
-  m_RequiresColorTexture: 0
-  m_Version: 2
-  m_TaaSettings:
-    quality: 3
-    frameInfluence: 0.1
-    jitterScale: 1
-    mipBias: 0
-    varianceClampScale: 0.9
-    contrastAdaptiveSharpening: 0
---- !u!81 &1365838553
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1365838550}
-  m_Enabled: 1
---- !u!20 &1365838554
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1365838550}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
-  m_FOVAxisMode: 0
-  m_Iso: 200
-  m_ShutterSpeed: 0.005
-  m_Aperture: 16
-  m_FocusDistance: 10
-  m_FocalLength: 50
-  m_BladeCount: 5
-  m_Curvature: {x: 2, y: 11}
-  m_BarrelClipping: 0.25
-  m_Anamorphism: 0
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
 --- !u!1001 &1373926627
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9987,11 +8939,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement
@@ -10059,11 +9011,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10085,11 +9037,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (3)
@@ -10157,11 +9109,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10183,11 +9135,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement
@@ -10255,11 +9207,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10321,11 +9273,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (8)
@@ -10389,11 +9341,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10415,11 +9367,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (2)
@@ -10487,11 +9439,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10502,90 +9454,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 1423555671}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1426578221
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+--- !u!4 &1423783028 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3634257320900318083, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1426578222}
-  - component: {fileID: 1426578224}
-  - component: {fileID: 1426578223}
-  m_Layer: 5
-  m_Name: Text4
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1426578222
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1426578221}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.03, y: 0.03, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 930181217}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 101.4, y: 99}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1426578223
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1426578221}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 12800000, guid: 30dc370b164eefc43b95744fc796dad0, type: 3}
-    m_FontSize: 150
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 1
-    m_MaxSize: 150
-    m_Alignment: 1
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 2.5
-  m_Text: 'Good job you finished the tutorial !
-
-    Now you can start the tasks
-
-'
---- !u!222 &1426578224
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1426578221}
-  m_CullTransparentMesh: 1
 --- !u!1001 &1439395337
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10597,11 +9470,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (2)
@@ -10669,11 +9542,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10684,6 +9557,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 1439395337}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1442221060 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2981186187856103306, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1442969918
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10695,11 +9579,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (3)
@@ -10767,11 +9651,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10781,11 +9665,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 1442969918}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1455039877 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1486431342356362140, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-  m_PrefabInstance: {fileID: 350086058}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1455586158
 GameObject:
@@ -10832,9 +9711,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4fac006f7e25744b8eac745fd65e258, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: {fileID: 1004954159}
-  panel: {fileID: 1842296799}
-  step: {fileID: 503029050}
+  text: {fileID: 1442221060}
+  panel: {fileID: 2127268551}
+  step: {fileID: 1622723622}
 --- !u!65 &1455586161
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10867,11 +9746,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (3)
@@ -10939,11 +9818,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10970,11 +9849,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (4)
@@ -11042,11 +9921,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11300,11 +10179,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (8)
@@ -11368,11 +10247,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11437,11 +10316,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (1)
@@ -11509,11 +10388,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11523,6 +10402,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 1617103482}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1622723622 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8217343723542826014, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1624856625
 GameObject:
@@ -11642,11 +10526,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (6)
@@ -11710,11 +10594,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11736,11 +10620,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (8)
@@ -11808,11 +10692,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11822,6 +10706,16 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 1721900078}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1654553262 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8562113176864266385, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1670679659 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6178669213763627001, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1678621807 stripped
 Transform:
@@ -11839,11 +10733,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (5)
@@ -11911,11 +10805,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11947,11 +10841,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (2)
@@ -12019,11 +10913,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12040,11 +10934,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement
@@ -12112,16 +11006,61 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
+--- !u!1 &1726529289
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1726529291}
+  - component: {fileID: 1726529290}
+  m_Layer: 0
+  m_Name: Controller Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1726529290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1726529289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b39322b6d9422c4eb111c1f7da9d1b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  portName: COM7
+--- !u!4 &1726529291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1726529289}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -41.58497, y: 1.4390391, z: -10.909277}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1755379771
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12133,11 +11072,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (1)
@@ -12205,11 +11144,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12292,11 +11231,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (5)
@@ -12364,11 +11303,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12390,11 +11329,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (2)
@@ -12462,11 +11401,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12589,22 +11528,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 6e0bb56a6489498419892f93fa348f9a, type: 3}
---- !u!4 &1825946790 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-  m_PrefabInstance: {fileID: 350086058}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1825946792 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5710386622241518315, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
-  m_PrefabInstance: {fileID: 350086058}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6bbebf3a3ace01498248a4e2d6a09da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1826241263 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 6e0bb56a6489498419892f93fa348f9a, type: 3}
@@ -12815,82 +11738,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 229334251763838163, guid: b4132c31885d64f4285e4c9460d24cd3, type: 3}
   m_PrefabInstance: {fileID: 1839181352}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1842296797
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1842296798}
-  - component: {fileID: 1842296800}
-  - component: {fileID: 1842296799}
-  m_Layer: 5
-  m_Name: Panel1
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1842296798
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1842296797}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 503029051}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1842296799
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1842296797}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.9803922, g: 0.7686275, b: 0.22352943, a: 0.83137256}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1842296800
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1842296797}
-  m_CullTransparentMesh: 1
 --- !u!1001 &1856456436
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12902,11 +11749,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (4)
@@ -12974,11 +11821,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13000,11 +11847,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (5)
@@ -13072,11 +11919,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13087,286 +11934,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 1857702368}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1860620278
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1860620283}
-  - component: {fileID: 1860620279}
-  - component: {fileID: 1860620282}
-  - component: {fileID: 1860620281}
-  - component: {fileID: 1860620280}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!20 &1860620279
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860620278}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
-  m_FOVAxisMode: 0
-  m_Iso: 200
-  m_ShutterSpeed: 0.005
-  m_Aperture: 16
-  m_FocusDistance: 10
-  m_FocalLength: 50
-  m_BladeCount: 5
-  m_Curvature: {x: 2, y: 11}
-  m_BarrelClipping: 0.25
-  m_Anamorphism: 0
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.01
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
---- !u!114 &1860620280
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860620278}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_RenderShadows: 1
-  m_RequiresDepthTextureOption: 2
-  m_RequiresOpaqueTextureOption: 2
-  m_CameraType: 0
-  m_Cameras: []
-  m_RendererIndex: -1
-  m_VolumeLayerMask:
-    serializedVersion: 2
-    m_Bits: 1
-  m_VolumeTrigger: {fileID: 0}
-  m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
-  m_Antialiasing: 0
-  m_AntialiasingQuality: 2
-  m_StopNaN: 0
-  m_Dithering: 0
-  m_ClearDepth: 1
-  m_AllowXRRendering: 1
-  m_AllowHDROutput: 1
-  m_UseScreenCoordOverride: 0
-  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
-  m_RequiresDepthTexture: 0
-  m_RequiresColorTexture: 0
-  m_Version: 2
-  m_TaaSettings:
-    quality: 3
-    frameInfluence: 0.1
-    jitterScale: 1
-    mipBias: 0
-    varianceClampScale: 0.9
-    contrastAdaptiveSharpening: 0
---- !u!114 &1860620281
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860620278}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c2fadf230d1919748a9aa21d40f74619, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_TrackingType: 0
-  m_UpdateType: 0
-  m_IgnoreTrackingState: 0
-  m_PositionInput:
-    m_UseReference: 0
-    m_Action:
-      m_Name: Position
-      m_Type: 0
-      m_ExpectedControlType: Vector3
-      m_Id: 276def7c-5a6b-413c-a94e-9fc64f80fbac
-      m_Processors: 
-      m_Interactions: 
-      m_SingletonActionBindings:
-      - m_Name: 
-        m_Id: 4c00c5a7-a094-46f7-912f-e0835aefccc7
-        m_Path: <XRHMD>/centerEyePosition
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Position
-        m_Flags: 0
-      - m_Name: 
-        m_Id: 966d4c6a-031d-4fdf-b473-2f21b62d2af2
-        m_Path: <HandheldARInputDevice>/devicePosition
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Position
-        m_Flags: 0
-      m_Flags: 0
-    m_Reference: {fileID: 0}
-  m_RotationInput:
-    m_UseReference: 0
-    m_Action:
-      m_Name: Rotation
-      m_Type: 0
-      m_ExpectedControlType: Quaternion
-      m_Id: 638c6705-2748-4fad-a4e0-fd8f1cc725dd
-      m_Processors: 
-      m_Interactions: 
-      m_SingletonActionBindings:
-      - m_Name: 
-        m_Id: c1168513-2af0-46e2-a5d6-758e4c3233ff
-        m_Path: <XRHMD>/centerEyeRotation
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Rotation
-        m_Flags: 0
-      - m_Name: 
-        m_Id: 416d8c26-f1e7-4598-81bf-380a5ac633be
-        m_Path: <HandheldARInputDevice>/deviceRotation
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Rotation
-        m_Flags: 0
-      m_Flags: 0
-    m_Reference: {fileID: 0}
-  m_TrackingStateInput:
-    m_UseReference: 0
-    m_Action:
-      m_Name: Tracking State
-      m_Type: 0
-      m_ExpectedControlType: Integer
-      m_Id: 34637f0e-efc2-49d0-b91b-584a334133a0
-      m_Processors: 
-      m_Interactions: 
-      m_SingletonActionBindings:
-      - m_Name: 
-        m_Id: 9ca2728b-3f18-43e3-b837-28a7e2b213b8
-        m_Path: <XRHMD>/trackingState
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Tracking State
-        m_Flags: 0
-      m_Flags: 0
-    m_Reference: {fileID: 0}
-  m_PositionAction:
-    m_Name: 
-    m_Type: 0
-    m_ExpectedControlType: 
-    m_Id: 
-    m_Processors: 
-    m_Interactions: 
-    m_SingletonActionBindings: []
-    m_Flags: 0
-  m_RotationAction:
-    m_Name: 
-    m_Type: 0
-    m_ExpectedControlType: 
-    m_Id: 
-    m_Processors: 
-    m_Interactions: 
-    m_SingletonActionBindings: []
-    m_Flags: 0
-  m_HasMigratedActions: 1
---- !u!81 &1860620282
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860620278}
-  m_Enabled: 1
---- !u!4 &1860620283
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860620278}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1877185894}
-  m_RootOrder: -1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1877185893
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1877185894}
-  m_Layer: 0
-  m_Name: Camera Offset
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1877185894
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1877185893}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.14, y: 1.64, z: 0.394}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1860620283}
-  m_Father: {fileID: 138063493}
-  m_RootOrder: -1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1878007995
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13483,11 +12050,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (8)
@@ -13555,11 +12122,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13570,6 +12137,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 1950190792}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1951220752 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5116197901468688843, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1953870280
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13581,11 +12159,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement
@@ -13653,11 +12231,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13740,11 +12318,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (4)
@@ -13812,11 +12390,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13838,11 +12416,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (6)
@@ -13906,92 +12484,16 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
---- !u!1 &2001303736
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2001303737}
-  - component: {fileID: 2001303739}
-  - component: {fileID: 2001303738}
-  m_Layer: 5
-  m_Name: Panel2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &2001303737
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2001303736}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 63367998}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.0004119873, y: -0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2001303738
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2001303736}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.9803922, g: 0.7686275, b: 0.22352943, a: 0}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &2001303739
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2001303736}
-  m_CullTransparentMesh: 1
 --- !u!1 &2002817623
 GameObject:
   m_ObjectHideFlags: 0
@@ -14215,11 +12717,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (3)
@@ -14287,11 +12789,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14313,11 +12815,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (2)
@@ -14385,11 +12887,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14474,9 +12976,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1045758075}
-  text: {fileID: 1426578223}
-  panel: {fileID: 509885347}
-  step: {fileID: 930181216}
+  text: {fileID: 0}
+  panel: {fileID: 0}
+  step: {fileID: 0}
 --- !u!1001 &2118403822
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14488,11 +12990,11 @@ PrefabInstance:
     - target: {fileID: 448295601802500920, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 950394535803300447, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 6256280079541817407, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: m_Name
       value: Cement (6)
@@ -14556,11 +13058,11 @@ PrefabInstance:
     - target: {fileID: 6924596321222290283, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     - target: {fileID: 7559794967302583737, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
       propertyPath: forklift
       value: 
-      objectReference: {fileID: 1825946790}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14571,6 +13073,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6256280079542176799, guid: e81f1b093fc4ff34481208d1a2413cec, type: 3}
   m_PrefabInstance: {fileID: 2118403822}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2127268551 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8497667594317787570, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+  m_PrefabInstance: {fileID: 3277765862426036634}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &229334250220622012
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14660,6 +13173,181 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1948917922058735256, guid: 2145ac4a206ca4349b94d80eebb1c074, type: 3}
   m_PrefabInstance: {fileID: 4137569582323412000}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3277765862426036634
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 14769302591387721, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: brakeReference
+      value: 
+      objectReference: {fileID: 7833024955656051864, guid: 83c8556f946e5d34791882318701b466, type: 3}
+    - target: {fileID: 3766212586264991518, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_Name
+      value: Forklift
+      objectReference: {fileID: 0}
+    - target: {fileID: 5239347856957505771, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267570021772090261, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5917522118359676106, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.3812027
+      objectReference: {fileID: 0}
+    - target: {fileID: 5917522118359676106, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.1482
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127170838596639372, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.2582
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127170838596639372, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.1482
+      objectReference: {fileID: 0}
+    - target: {fileID: 6642355078321830483, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -41.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.30000246
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7137837235736305498, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 7137837235736305498, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 7463094835204629073, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.28720474
+      objectReference: {fileID: 0}
+    - target: {fileID: 7463094835204629073, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.1482
+      objectReference: {fileID: 0}
+    - target: {fileID: 7494424229766345665, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: canvasTarget
+      value: 
+      objectReference: {fileID: 962836812}
+    - target: {fileID: 7494424229766345665, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: resetTransform
+      value: 
+      objectReference: {fileID: 1647566709}
+    - target: {fileID: 7543294591219798605, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: forkMast
+      value: 
+      objectReference: {fileID: 1423783028}
+    - target: {fileID: 7543294591219798605, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: forkRigSpeedY
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7543294591219798605, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: forkAdjustRigMaxY
+      value: 14.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7728577686204990526, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: forkTiltReference
+      value: 
+      objectReference: {fileID: -8110624575917465695, guid: 83c8556f946e5d34791882318701b466, type: 3}
+    - target: {fileID: 7816043040131820396, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_Drag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7816043040131820396, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_AngularDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8499858106332115731, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.3432045
+      objectReference: {fileID: 0}
+    - target: {fileID: 8499858106332115731, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.1482
+      objectReference: {fileID: 0}
+    - target: {fileID: 8537879097848660507, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: lever2
+      value: 
+      objectReference: {fileID: 1670679659}
+    - target: {fileID: 8537879097848660507, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: lever3
+      value: 
+      objectReference: {fileID: 1108099710}
+    - target: {fileID: 8537879097848660507, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: lever4
+      value: 
+      objectReference: {fileID: 532492174}
+    - target: {fileID: 8537879097848660507, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: inputProvider
+      value: 
+      objectReference: {fileID: 996319488}
+    - target: {fileID: 8537879097848660507, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: maxRotation.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8537879097848660507, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+      propertyPath: minRotation.x
+      value: -10
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7445030920348300763, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+    - {fileID: 8537879097848660507, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
 --- !u!1001 &4137569582323412000
 PrefabInstance:
   m_ObjectHideFlags: 0
