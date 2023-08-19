@@ -81,6 +81,7 @@ public class StackLargePallets : MonoBehaviour
                 passed = true;
                 Debug.Log("passed !");
                 GoodJobPannel.SetActive(true);
+                Time.timeScale = 0;
                // step4.SetActive(true);
               
                 

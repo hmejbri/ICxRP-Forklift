@@ -76,7 +76,8 @@ public class StackSmallPal : MonoBehaviour
             // -the text of the pannel changes                                     V
            
 
-            if (nbPalStacked == nbPallets) { 
+            if (nbPalStacked == nbPallets) {
+                StartCoroutine(Waiter());
                 passed = true;
                 Debug.Log("passed !");
                 LargePalPannel.SetActive(true);
@@ -86,13 +87,13 @@ public class StackSmallPal : MonoBehaviour
                 Debug.Log("now red area");
 
                 RedArea.SetActive(true);
-
-
-
-
-
             }
         }
+    }
+
+    IEnumerator Waiter()
+    {
+        yield return new WaitForSeconds(1);
     }
 
 

@@ -34,13 +34,19 @@ public class disablePannel: MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("box entered");
         if (other.tag == "forklift")
         {
             fade();
 
         }
 
+    }
+
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.tag == "forklift")
+            this.gameObject.SetActive(false);
     }
 
 }
