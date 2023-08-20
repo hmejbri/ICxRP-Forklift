@@ -1,7 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 
 /* This script is a part of the ready-made scripts that TGL
  * provided us with. It handles vehicle movement in Unity at
@@ -18,7 +15,6 @@ public class VehicleControl : MonoBehaviour
     private float Wheel => inputProvider.wheelInput;
     private float Throttle => usingWheelAndPedals ? LerpedInput(1, 0, inputProvider.throttleInput) : inputProvider.throttleInput;
     private float Brake => usingWheelAndPedals ? LerpedInput(0, 1, inputProvider.brakeInput) : inputProvider.brakeInput;
-    private Vector2 Stick => inputProvider.joystickInput;
 
     [Header("Main")]
     [SerializeField] private Transform steeringWheel;
@@ -30,21 +26,14 @@ public class VehicleControl : MonoBehaviour
     [SerializeField] private float steeringPower = 50f;
     [SerializeField] private float speed = 2f;
 
-    [Header("Debug")]
-    [SerializeField] private bool debugEnabled;
-    [SerializeField] private TMP_Text debugT;
-
     private void Awake()
     {
         inputProvider = GetComponent<VehicleInputProvider>();
-
-        if (!debugEnabled && debugT)
-            debugT.text = " ";
     }
     private void Update()
     {
         // Throttle & brake
-        float velocity = Throttle - Brake;
+        float velocity = Brake != 0 ? 0 : Throttle;
         if (velocity > 0.01f || velocity < -0.01f)
             transform.Rotate(0, Wheel * steeringPower * Time.deltaTime, 0);
 
@@ -59,18 +48,9 @@ public class VehicleControl : MonoBehaviour
             steeringWheel.localEulerAngles = wheelRotation;
         }
     }
-    private void FixedUpdate()
-    {
-        if (debugEnabled)
-            UpdateDebug();
-    }
+
     private float LerpedInput(float a, float b, float inputValue)
     {
         return inputProvider.enabled ? Mathf.Lerp(a, b, (inputValue + 1) / 2) : 0;
     }
-    private void UpdateDebug()
-        => debugT.text = $"Wheel: {Wheel:F3}\n" +
-                         $"Throttle: {Throttle:F3}\n" +
-                         $"Brake: {Brake:F3}\n" +
-                         $"Stick: {Stick:F3}";
 }

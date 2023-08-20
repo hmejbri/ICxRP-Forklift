@@ -9,7 +9,7 @@ public class ControllerInput : MonoBehaviour
     [HideInInspector] public float[] joystickValues { get; private set; }
 
     public string portName;
-    SerialPort port;
+    public SerialPort port;
 
     private void Start()
     {
@@ -22,7 +22,6 @@ public class ControllerInput : MonoBehaviour
     {
         //Reading controller values from serial port
         string input = port.ReadLine();
-        Debug.Log(input);
         string[] inputValues = input.Split("|");
 
         //Parsing the controller values to usable variables
