@@ -11,6 +11,9 @@ using UnityEngine;
 [RequireComponent(typeof(VehicleInputProvider))]
 public class VehicleControl : MonoBehaviour
 {
+    [Header("Controller Input")]
+    [SerializeField] ControllerInput input;
+
     VehicleInputProvider inputProvider;
     private float Wheel => inputProvider.wheelInput;
     private float Throttle => usingWheelAndPedals ? LerpedInput(1, 0, inputProvider.throttleInput) : inputProvider.throttleInput;
@@ -33,7 +36,7 @@ public class VehicleControl : MonoBehaviour
     private void Update()
     {
         // Throttle & brake
-        float velocity = Brake != 0 ? 0 : Throttle;
+        float velocity = input.port.IsOpen ? Brake != 0 ? 0 : Throttle : Throttle - Brake;
         if (velocity > 0.01f || velocity < -0.01f)
             transform.Rotate(0, Wheel * steeringPower * Time.deltaTime, 0);
 

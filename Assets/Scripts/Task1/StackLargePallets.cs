@@ -1,38 +1,38 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
-public class StackSmallPal : MonoBehaviour
-{ // this script is added to the green area (the target)
+public class StackLargePallets : MonoBehaviour
+{
+     // this script is added to the green area (the target)
 
     private bool passed = false;
     private int nbPalStacked = 0;
-    public int nbPallets=2;
-    public GameObject LargePalPannel , EuroPannel;
+    public int nbPallets = 2;
+    public GameObject GoodJobPannel;
 
     public GameObject LargePallets;
     public Transform forklift;
     public Vector3 forkliftStartPos;
     bool _Faded = false;
-    public CanvasGroup CanvLargeP;
+    public CanvasGroup CanvGoodJobP;
     public float duration = 0.5f;
     public GameObject greenArea, RedArea;
-    public GameObject step3;
+    public GameObject step4;
 
 
 
     private void Start()
     {
-        
-       forkliftStartPos = forklift.position;
+
+        forkliftStartPos = forklift.position;
     }
 
 
 
     public void fade(CanvasGroup CG)
-    { 
-        StartCoroutine(fadeOut(CG, CG.alpha,_Faded? 0:1));
+    {
+        StartCoroutine(fadeOut(CG, CG.alpha, _Faded ? 0 : 1));
 
     }
 
@@ -62,11 +62,11 @@ public class StackSmallPal : MonoBehaviour
     */
 
 
-        // if he enters the green area it will count the stacked pallets
-        private void OnTriggerEnter(Collider other)
+    // if he enters the green area it will count the stacked pallets
+    private void OnTriggerEnter(Collider other)
     {
-        if (other.name == "EuroPalette")
-        { 
+        if (other.name == "Large pallet")
+        {
             nbPalStacked++;
             Debug.Log(nbPalStacked);
 
@@ -74,32 +74,31 @@ public class StackSmallPal : MonoBehaviour
             // he disable the small pallets and set active the large ones          |
             // -returns to the starting point                                      |
             // -the text of the pannel changes                                     V
-           
 
-            if (nbPalStacked == nbPallets) {
-                StartCoroutine(Waiter());
+
+            if (nbPalStacked == nbPallets)
+            {
                 passed = true;
                 Debug.Log("passed !");
-                LargePalPannel.SetActive(true);
-                step3.SetActive(true);
-                EuroPannel.SetActive(false);
-                LargePallets.SetActive(true);
-                Debug.Log("now red area");
+                GoodJobPannel.SetActive(true);
+                Time.timeScale = 0;
+               // step4.SetActive(true);
+              
+                
 
-                RedArea.SetActive(true);
+
+
+
             }
         }
-    }
-
-    IEnumerator Waiter()
-    {
-        yield return new WaitForSeconds(1);
     }
 
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.name == "EuroPalette")
+        if (other.name == "Large pallet")
             nbPalStacked--;
     }
 }
+
+
