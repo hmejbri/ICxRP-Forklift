@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class StackSmallPal : MonoBehaviour
 { // this script is added to the green area (the target)
 
-    private bool passed = false;
+    //private bool passed = false;
     private int nbPalStacked = 0;
     public int nbPallets=2;
     public GameObject LargePalPannel , EuroPannel;
@@ -78,7 +78,7 @@ public class StackSmallPal : MonoBehaviour
 
             if (nbPalStacked == nbPallets) {
                 StartCoroutine(Waiter());
-                passed = true;
+                //passed = true;
                 Debug.Log("passed !");
                 LargePalPannel.SetActive(true);
                 step3.SetActive(true);

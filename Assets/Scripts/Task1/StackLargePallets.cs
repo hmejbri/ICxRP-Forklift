@@ -6,7 +6,7 @@ public class StackLargePallets : MonoBehaviour
 {
      // this script is added to the green area (the target)
 
-    private bool passed = false;
+   // private bool passed = false;
     private int nbPalStacked = 0;
     public int nbPallets = 2;
     public GameObject GoodJobPannel;
@@ -78,7 +78,7 @@ public class StackLargePallets : MonoBehaviour
 
             if (nbPalStacked == nbPallets)
             {
-                passed = true;
+               // passed = true;
                 Debug.Log("passed !");
                 GoodJobPannel.SetActive(true);
                 Time.timeScale = 0;
