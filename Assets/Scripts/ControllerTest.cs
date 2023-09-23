@@ -11,6 +11,7 @@ public class ControllerTest : MonoBehaviour
     [SerializeField] TMP_Text joystick2;
     [SerializeField] TMP_Text joystick3;
     [SerializeField] TMP_Text joystick4;
+    [SerializeField] TMP_Text errorCode;
 
     private void Update()
     {
@@ -19,5 +20,6 @@ public class ControllerTest : MonoBehaviour
         joystick2.text = input.joystickValues[1].ToString();
         joystick3.text = input.joystickValues[2].ToString();
         joystick4.text = input.joystickValues[3].ToString();
+        errorCode.text = input.errorCode.ToString();
     }
 }

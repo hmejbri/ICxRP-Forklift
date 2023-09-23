@@ -351,6 +351,7 @@ MonoBehaviour:
   lever2: {fileID: 6178669213763627001}
   lever3: {fileID: 5216419832225701198}
   lever4: {fileID: 7993401581695787685}
+  speed: 15
 --- !u!114 &7728577686204990526
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -363,6 +364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc4ba7003215c654c8ad48e75e8029d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  input: {fileID: 0}
   actionAsset: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
   wheelReference: {fileID: -5353648533306546050, guid: 83c8556f946e5d34791882318701b466, type: 3}
   throttleReference: {fileID: -7238929495583442817, guid: 83c8556f946e5d34791882318701b466, type: 3}
@@ -370,8 +372,10 @@ MonoBehaviour:
   joystickReference: {fileID: -4842571634494827634, guid: 83c8556f946e5d34791882318701b466, type: 3}
   forkSpreadReference: {fileID: -2828999663509416817, guid: 83c8556f946e5d34791882318701b466, type: 3}
   forkTiltReference: {fileID: -8110624575917465695, guid: 83c8556f946e5d34791882318701b466, type: 3}
-  debugEnabled: 0
-  debugT: {fileID: 0}
+  forkInputY: 0
+  forkInputX: 0
+  forkInputSpread: 0
+  forkInputTilt: 0
 --- !u!1 &264241286549739935
 GameObject:
   m_ObjectHideFlags: 0
@@ -2505,14 +2509,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6417c6a2f71499f4d80a566092c3162e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  input: {fileID: 0}
+  velocity: 0
   steeringWheel: {fileID: 5847589798276904288}
   wheelRotationRange: 900
   wheelMaxValue: 0.707
   usingWheelAndPedals: 0
   steeringPower: 50
   speed: 2
-  debugEnabled: 0
-  debugT: {fileID: 0}
 --- !u!114 &7543294591219798605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2576,6 +2580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc4ba7003215c654c8ad48e75e8029d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  input: {fileID: 0}
   actionAsset: {fileID: -944628639613478452, guid: 83c8556f946e5d34791882318701b466, type: 3}
   wheelReference: {fileID: -5353648533306546050, guid: 83c8556f946e5d34791882318701b466, type: 3}
   throttleReference: {fileID: -7238929495583442817, guid: 83c8556f946e5d34791882318701b466, type: 3}
@@ -2583,8 +2588,10 @@ MonoBehaviour:
   joystickReference: {fileID: -4842571634494827634, guid: 83c8556f946e5d34791882318701b466, type: 3}
   forkSpreadReference: {fileID: -2828999663509416817, guid: 83c8556f946e5d34791882318701b466, type: 3}
   forkTiltReference: {fileID: -8110624575917465695, guid: 83c8556f946e5d34791882318701b466, type: 3}
-  debugEnabled: 0
-  debugT: {fileID: 0}
+  forkInputY: 0
+  forkInputX: 0
+  forkInputSpread: 0
+  forkInputTilt: 0
 --- !u!1 &3780392771526001024
 GameObject:
   m_ObjectHideFlags: 0
@@ -3810,12 +3817,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5267570021772090261}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.032, z: 0}
+  m_LocalPosition: {x: 0, y: 1.455, z: 0.287}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 5687320452770245447}
   - {fileID: 8621171616409227241}
+  - {fileID: 5687320452770245447}
   m_Father: {fileID: 6646413241687514822}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3834,8 +3841,8 @@ MonoBehaviour:
   m_Camera: {fileID: 751395633004585280}
   m_OriginBaseGameObject: {fileID: 5267570021772090261}
   m_CameraFloorOffsetObject: {fileID: 1563456170993566998}
-  m_RequestedTrackingOriginMode: 0
-  m_CameraYOffset: 1.1176
+  m_RequestedTrackingOriginMode: 1
+  m_CameraYOffset: 0
 --- !u!114 &8668897417763966848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3857,7 +3864,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5267570021772090261}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc9cad5ec0793f2498bf8b7ca1963d0b, type: 3}
   m_Name: 
@@ -4668,8 +4675,8 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7119667936455571221}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1.283}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.996}
   m_LocalScale: {x: 0.005, y: 0.005, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4682,7 +4689,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.209, y: -0.472}
+  m_AnchoredPosition: {x: 0.209, y: 0.10500014}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &5946572184836591890

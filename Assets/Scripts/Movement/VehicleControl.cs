@@ -19,6 +19,8 @@ public class VehicleControl : MonoBehaviour
     private float Throttle => usingWheelAndPedals ? LerpedInput(1, 0, inputProvider.throttleInput) : inputProvider.throttleInput;
     private float Brake => usingWheelAndPedals ? LerpedInput(0, 1, inputProvider.brakeInput) : inputProvider.brakeInput;
 
+    public float velocity;
+
     [Header("Main")]
     [SerializeField] private Transform steeringWheel;
     [SerializeField] private float wheelRotationRange = 900f;
@@ -36,7 +38,7 @@ public class VehicleControl : MonoBehaviour
     private void Update()
     {
         // Throttle & brake
-        float velocity = input.port.IsOpen ? Brake != 0 ? 0 : Throttle : Throttle - Brake;
+        velocity = input.port.IsOpen ? Brake != 0 ? 0 : Throttle : Throttle - Brake;
         if (velocity > 0.01f || velocity < -0.01f)
             transform.Rotate(0, Wheel * steeringPower * Time.deltaTime, 0);
 
