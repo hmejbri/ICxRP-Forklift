@@ -4,7 +4,7 @@ using UnityEngine;
 
 /* This script handles the animation of the levers
  * imitates the movement of the levers in the control panel
- * and update them accordingly in the model 
+ * and updates them accordingly in the model 
  * 
  * Last editor : Houssem 
  */
@@ -18,10 +18,11 @@ public class LeversAnimation : MonoBehaviour
     [SerializeField] GameObject lever3;
     [SerializeField] GameObject lever4;
 
-    private float forkInputY => inputProvider.joystickInput.y; // Keyboard: up/down arrow keys
-    private float forkInputX => inputProvider.joystickInput.x; // Keyboard: left/right arrow keys
-    private float forkInputSpread => inputProvider.forkSpreadInput; // Keyboard: Q and E
-    private float forkInputTilt => inputProvider.forkTiltInput; // Keyboard: Z and X
+    public float speed = 15f;
+    private float forkInputY => inputProvider.forkInputY;
+    private float forkInputX => inputProvider.forkInputX;
+    private float forkInputSpread => inputProvider.forkInputSpread;
+    private float forkInputTilt => inputProvider.forkInputTilt;
 
     float angleInputY = 0;
     float angleInputX = 0;
@@ -30,16 +31,11 @@ public class LeversAnimation : MonoBehaviour
 
     private void Update()
     {
-        angleInputY += forkInputY;
-        angleInputX += forkInputX;
-        angleInputSpread += forkInputSpread;
-        angleInputTilt += forkInputTilt;
-
-        // Limit the angle in between -10 and 10
-        angleInputY = Mathf.Clamp(angleInputY, -10, 10);
-        angleInputX = Mathf.Clamp(angleInputX, -10, 10);
-        angleInputSpread = Mathf.Clamp(angleInputSpread, -10, 10);
-        angleInputTilt = Mathf.Clamp(angleInputTilt, -10, 10);
+        // Limit the angle in between -15 and 15
+        angleInputY = Mathf.Clamp(forkInputY * speed, -15, 15);
+        angleInputX = Mathf.Clamp(forkInputX * speed, -15, 15);
+        angleInputSpread = Mathf.Clamp(forkInputSpread * speed, -15, 15);
+        angleInputTilt = Mathf.Clamp(forkInputTilt * speed, -15, 15);
 
         //Apply the rotation
         lever1.transform.localRotation = Quaternion.AngleAxis(angleInputY, Vector3.right);

@@ -28,6 +28,7 @@ public class StickPallets : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log(other.tag);
         if (other.tag != "forks" && other.tag != "forklift")
         {
             //Test so the objects parents wont be null with the first collision with floor/rack

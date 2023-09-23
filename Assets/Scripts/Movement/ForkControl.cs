@@ -56,10 +56,10 @@ public class ForkControl : MonoBehaviour
     private float forkTiltRotate;
 
     // Input readers (forkSpreadInput & forkTiltInput are only mapped to keyboard atm)
-    private float forkInputY => inputProvider.joystickInput.y; // Keyboard: up/down arrow keys
-    private float forkInputX => inputProvider.joystickInput.x; // Keyboard: left/right arrow keys
-    private float forkInputSpread => inputProvider.forkSpreadInput; // Keyboard: Q and E
-    private float forkInputTilt => inputProvider.forkTiltInput; // Keyboard: Z and X
+    private float forkInputY => inputProvider.forkInputY; // Keyboard: up/down arrow keys
+    private float forkInputX => inputProvider.forkInputX; // Keyboard: left/right arrow keys
+    private float forkInputSpread => inputProvider.forkInputSpread; // Keyboard: Q and E
+    private float forkInputTilt => inputProvider.forkInputTilt; // Keyboard: Z and X
 
     private void Awake()
     {
