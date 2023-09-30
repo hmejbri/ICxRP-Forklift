@@ -3801,7 +3801,6 @@ GameObject:
   - component: {fileID: 7316147137716656614}
   - component: {fileID: 3368245844138110741}
   - component: {fileID: 8668897417763966848}
-  - component: {fileID: 7494424229766345665}
   m_Layer: 0
   m_Name: XR Origin
   m_TagString: Untagged
@@ -3857,23 +3856,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_ActionAssets:
   - {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
---- !u!114 &7494424229766345665
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5267570021772090261}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc9cad5ec0793f2498bf8b7ca1963d0b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  resetTransform: {fileID: 0}
-  player: {fileID: 5267570021772090261}
-  playerHead: {fileID: 751395633004585280}
-  canvas: {fileID: 7119667936455571221}
-  canvasTarget: {fileID: 0}
 --- !u!1 &5319256112075846063
 GameObject:
   m_ObjectHideFlags: 0
