@@ -28,8 +28,7 @@ public class StickPallets : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log(other.tag);
-        if (other.tag != "forks" && other.tag != "forklift")
+        if (other.tag != "forks" && other.tag != "forklift" && other.tag != "Finish")
         {
             //Test so the objects parents wont be null with the first collision with floor/rack
             if (nbTimes > 0)
@@ -45,7 +44,7 @@ public class StickPallets : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.tag != "forks" && other.tag != "forklift")
+        if (other.tag != "forks" && other.tag != "forklift" && other.tag != "Finish")
         {
             //if the object leaves the floor, rack.. then its lifted so its parent will be set to the forklift
             Transform p = getParent();
