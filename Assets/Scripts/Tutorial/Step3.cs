@@ -41,6 +41,8 @@ public class Step3: MonoBehaviour
         }
 
         step4.SetActive(true);
+        Destroy(step);
+        Destroy(gameObject);
     }
 
     IEnumerator FadeIn()
@@ -69,15 +71,5 @@ public class Step3: MonoBehaviour
 
             StartCoroutine(FadeIn());
         }
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        if (other.tag == "forks" || other.tag == "forklift")
-        {
-            Destroy(step);
-            Destroy(gameObject);
-        }
-
     }
 }
