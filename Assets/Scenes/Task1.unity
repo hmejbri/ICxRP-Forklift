@@ -3100,7 +3100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b39322b6d9422c4eb111c1f7da9d1b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  portName: COM115121
+  portName: COM11
 --- !u!4 &378225600
 Transform:
   m_ObjectHideFlags: 0

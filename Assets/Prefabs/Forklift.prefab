@@ -2533,8 +2533,8 @@ MonoBehaviour:
   forkLeft: {fileID: 4871943655679808021}
   forkRight: {fileID: 2789274042468669021}
   forkMast: {fileID: 3634257320900318083}
-  forkAdjustRigMaxY: 3
-  forkRigSpeedY: 1.5
+  forkAdjustRigMaxY: 15
+  forkRigSpeedY: 3
   forkAdjustRigMaxX: 1
   forkRigSpeedX: 1
   forkAdjustMaxSpread: 1
@@ -2585,9 +2585,9 @@ MonoBehaviour:
   wheelReference: {fileID: -5353648533306546050, guid: 83c8556f946e5d34791882318701b466, type: 3}
   throttleReference: {fileID: -7238929495583442817, guid: 83c8556f946e5d34791882318701b466, type: 3}
   brakeReference: {fileID: 7833024955656051864, guid: 83c8556f946e5d34791882318701b466, type: 3}
-  joystickReference: {fileID: -4842571634494827634, guid: 83c8556f946e5d34791882318701b466, type: 3}
-  forkSpreadReference: {fileID: -2828999663509416817, guid: 83c8556f946e5d34791882318701b466, type: 3}
-  forkTiltReference: {fileID: -8110624575917465695, guid: 83c8556f946e5d34791882318701b466, type: 3}
+  joystickReference: {fileID: -942479152043569000, guid: 83c8556f946e5d34791882318701b466, type: 3}
+  forkSpreadReference: {fileID: -4489172036476495506, guid: 83c8556f946e5d34791882318701b466, type: 3}
+  forkTiltReference: {fileID: 6060301472610790057, guid: 83c8556f946e5d34791882318701b466, type: 3}
   forkInputY: 0
   forkInputX: 0
   forkInputSpread: 0
