@@ -14,7 +14,7 @@ public class ControllerInput : MonoBehaviour
 
     [SerializeField] string portName;
     public SerialPort port;
-    string input;
+    string input = "";
 
     Regex regexString = new Regex(@"^-?[0-1](?:\|-?(?:0\.[0-9]{2}|1\.00)){4}$");
 
@@ -64,7 +64,9 @@ public class ControllerInput : MonoBehaviour
             string[] inputValues = input.Split("|");
 
             //Parsing the controller values to usable variables
-            gearValue = int.Parse(inputValues[0]);
+            int gearInput = int.Parse(inputValues[0]);
+            if (MathF.Abs(gearInput) == 1) { gearValue = gearInput; }
+
             for (int i = 1; i <= 4; i++)
             {
                 joystickValues[i - 1] = float.Parse(inputValues[i]);
