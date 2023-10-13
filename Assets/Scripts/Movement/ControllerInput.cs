@@ -13,7 +13,6 @@ public class ControllerInput : MonoBehaviour
     [HideInInspector] public int errorCode { get; private set; }
 
     [SerializeField] string portName;
-    List<string> portNames;
     public SerialPort port;
     string input;
 
@@ -26,7 +25,7 @@ public class ControllerInput : MonoBehaviour
         //If COM-port is not set manually, find and assing correct port name
         if (portName == "")
         {
-            portNames = GetSerialPortCaptions();
+            List<string> portNames = GetSerialPortCaptions();
 
             foreach (string _portName in portNames)
             {
@@ -52,7 +51,7 @@ public class ControllerInput : MonoBehaviour
             if (!port.IsOpen)
             {
                 port.Open();
-            }    
+            }
         }
         catch (IOException)
         {

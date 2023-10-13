@@ -1607,6 +1607,7 @@ MonoBehaviour:
   m_RepeatDelay: 0.5
   m_RepeatRate: 0.1
   m_TrackedDeviceDragThresholdMultiplier: 1.4
+  m_TrackedScrollDeltaMultiplier: 5
   m_ActiveInputMode: 0
   m_MaxTrackedDeviceRaycastDistance: 1000
   m_EnableXRInput: 1
@@ -13866,7 +13867,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5267570021772090261, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5917522118359676106, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13886,7 +13887,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6642355078321830483, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6646413241687514822, guid: 2969b300252b3724cbacc4cc3b0319a8, type: 3}
       propertyPath: m_RootOrder

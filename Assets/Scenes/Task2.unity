@@ -11203,6 +11203,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3bb08ed7b9d4cf74b8324b0814759a5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cargo2: {fileID: 0}
   guide: {fileID: 784073321}
   panel: {fileID: 784073324}
   text: {fileID: 1957852944}
