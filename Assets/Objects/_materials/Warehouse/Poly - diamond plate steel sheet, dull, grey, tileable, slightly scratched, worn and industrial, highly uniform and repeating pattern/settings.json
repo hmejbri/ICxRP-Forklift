@@ -1,0 +1,23 @@
+{
+  "prompt_text": "diamond plate steel sheet, dull, grey, tileable, slightly scratched, worn and industrial, highly uniform and repeating pattern",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/26cd773b-bab8-4cc5-9190-22e163438f76.png",
+    "patch_id": "QYGrzcvR5h"
+  },
+  "seamless_prompt_text": "diamond plate steel sheet, dull, grey, tileable, slightly scratched, worn and industrial, highly uniform and repeating pattern",
+  "seamless_patch_scale": 0.8,
+  "upscale_prompt_text": "diamond plate steel sheet, dull, grey, tileable, slightly scratched, worn and industrial, highly uniform and repeating pattern",
+  "upscale_resolution": 2048,
+  "is_seamless": true,
+  "pbr_mode": "polished",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": true
+}
