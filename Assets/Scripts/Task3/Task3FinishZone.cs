@@ -6,11 +6,13 @@ using UnityEngine;
  * attached GameObject's trigger zone. After 3 seconds, the
  * task will register as completed.
  * 
- * Last edited 28/09/2023 by Micael
+ * Last edited 12/10/2023 by Micael
  */
 
 public class Task3FinishZone : MonoBehaviour
 {
+    [SerializeField] private TaskEndScreen taskEndScreen; // For ending UI
+
     private bool isCountingDown = false;
     private float countdownTime = 3.0f;
 
@@ -47,5 +49,6 @@ public class Task3FinishZone : MonoBehaviour
         Debug.Log("Countdown finished!");
 
         // Add finish here
+        taskEndScreen.ShowScreen();
     }
 }
