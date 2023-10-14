@@ -10,7 +10,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.4",
+      "version": "1.8.7",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -58,7 +58,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.6.1",
+      "version": "1.6.3",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -172,7 +172,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.core-utils": {
-      "version": "2.2.1",
+      "version": "2.2.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {

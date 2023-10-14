@@ -23,7 +23,7 @@ public class EndTask_2 : MonoBehaviour
 
         Destroy(guide);
         Time.timeScale = 0;
-
+        FindObjectOfType<GameManager>().stopTimer();
         yield return null;
     }
 
