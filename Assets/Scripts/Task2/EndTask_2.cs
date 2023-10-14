@@ -5,24 +5,21 @@ using UnityEngine.UI;
 
 public class EndTask_2 : MonoBehaviour
 {
+    [SerializeField] private TaskEndScreen taskEndScreen; // For ending UI
+    [SerializeField] GameObject sounds;
+    [SerializeField] GameObject forklift;
+
     public GameObject cargo2;
-    public GameObject guide;
-    public Image panel;
-    public Text text;
     public GameObject arrow;
     private bool inPlace = false;
     public IEnumerator fade()
     {
-        for (float alpha = 0; alpha < 212; alpha += 2 * Time.deltaTime)
-        {
-            panel.color = new Color(panel.color.r, panel.color.g, panel.color.b, alpha);
-            text.color = new Color(text.color.r, text.color.g, text.color.b, alpha);
-        }
-        
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(1);
 
-        Destroy(guide);
-        Time.timeScale = 0;
+        taskEndScreen.ShowScreen();
+        sounds.SetActive(false);
+        forklift.GetComponent<ForkControl>().enabled = false;
+        forklift.GetComponent<VehicleControl>().enabled = false;
 
         yield return null;
     }

@@ -5,23 +5,20 @@ using UnityEngine.UI;
 public class StackLargePallets : MonoBehaviour
 {
     // this script is added to the green area (the target)
+    [SerializeField] private TaskEndScreen taskEndScreen; // For ending UI
+    [SerializeField] GameObject sounds;
+    [SerializeField] GameObject forklift;
 
-    public GameObject GoodJobGuide, Sounds;
-    public Image GoodJobPanel;
-    public Text GoodJobText;
     private int nbPalStacked = 0;
 
     public IEnumerator Fade()
     {
-        for (float alpha = 0; alpha < 212; alpha += 2 * Time.deltaTime)
-        {
-            GoodJobPanel.color = new Color(GoodJobPanel.color.r, GoodJobPanel.color.g, GoodJobPanel.color.b, alpha);
-            GoodJobText.color = new Color(GoodJobText.color.r, GoodJobText.color.g, GoodJobText.color.b, alpha);
-        }
-
         yield return new WaitForSeconds(1);
-        Destroy(Sounds);
-        Time.timeScale = 0;
+
+        taskEndScreen.ShowScreen();
+        sounds.SetActive(false);
+        forklift.GetComponent<ForkControl>().enabled = false;
+        forklift.GetComponent<VehicleControl>().enabled = false;
     }
 
     // if he enters the green area it will count the stacked pallets
@@ -30,7 +27,6 @@ public class StackLargePallets : MonoBehaviour
         if (other.name == "Large pallet")
         {
             nbPalStacked++;
-            Debug.Log(nbPalStacked);
 
             //if the stacked pallets are equal to the pallets laying on the ground |
             // he disable the small pallets and set active the large ones          |
