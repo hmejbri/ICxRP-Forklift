@@ -1,0 +1,23 @@
+{
+  "prompt_text": "clean shiny concrete floor, extreme fine details, close up",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3-voronoi/textures/patches/60a316b0-0364-445b-b1f4-e0793a4fa084.png",
+    "patch_id": "CpHvufnW76"
+  },
+  "seamless_prompt_text": "clean shiny concrete floor, extreme fine details, close up",
+  "seamless_patch_scale": 1.0,
+  "upscale_prompt_text": "clean shiny concrete floor, extreme fine details, close up",
+  "upscale_resolution": 4096,
+  "is_seamless": true,
+  "pbr_mode": "polished",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}

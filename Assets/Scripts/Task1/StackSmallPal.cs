@@ -4,13 +4,19 @@ using UnityEngine.UI;
 
 public class StackSmallPal : MonoBehaviour
 { // this script is added to the green area (the target)
-
+    [SerializeField] private Transform forklift;
     public GameObject LargePallets, RedArea, arrow, NextGuide;
     public Image Panel;
     public Text TextLargeP;
     private int nbPalStacked = 0;
 
-    public IEnumerator Fade()
+    private void Update()
+    {
+        if (Vector3.Distance(transform.position, forklift.position) > 5 && nbPalStacked == 2)
+            Destroy(NextGuide);
+    }
+
+    public IEnumerator FadeIn()
     {
         for (float alpha = 0; alpha < 212; alpha += 2 * Time.deltaTime)
         {
@@ -19,24 +25,12 @@ public class StackSmallPal : MonoBehaviour
 
             yield return null;
         }
-
-        yield return new WaitForSeconds(4);
-
-        for (float alpha = 212; alpha > 0; alpha -= 2 * Time.deltaTime)
-        {
-            Panel.color = new Color(Panel.color.r, Panel.color.g, Panel.color.b, alpha);
-            TextLargeP.color = new Color(TextLargeP.color.r, TextLargeP.color.g, TextLargeP.color.b, alpha);
-
-            yield return null;
-        }
-
-        Destroy(NextGuide);
     }
 
     // if he enters the green area it will count the stacked pallets
     private void OnTriggerEnter(Collider other)
     {
-        if (other.name == "EuroPalette")
+        if (other.name == "EuroPalette" && nbPalStacked < 2)
         {    
             nbPalStacked++;
 
@@ -46,7 +40,7 @@ public class StackSmallPal : MonoBehaviour
             // -the text of the pannel changes                                     V          
 
             if (nbPalStacked == 2) {
-                StartCoroutine(Fade());
+                StartCoroutine(FadeIn());
                 LargePallets.SetActive(true);
                 RedArea.SetActive(true);
                 Destroy(arrow);
@@ -56,7 +50,7 @@ public class StackSmallPal : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.name == "EuroPalette")
+        if (other.name == "EuroPalette" && nbPalStacked < 2)
             nbPalStacked--;
     }
 }

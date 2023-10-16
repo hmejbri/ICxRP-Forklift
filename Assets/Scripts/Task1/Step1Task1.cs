@@ -29,7 +29,7 @@ public class Step1Task1 : MonoBehaviour
             text2.color = new Color(text2.color.r, text2.color.g, text2.color.b, alpha);
         }
 
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(4);
 
         Destroy(step1);
         Destroy(step2);
@@ -39,8 +39,6 @@ public class Step1Task1 : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "forklift" || other.tag == "forks")
-        {
             StartCoroutine(Fade());
-        }
     }
 }
