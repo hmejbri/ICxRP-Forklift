@@ -51,6 +51,8 @@ public class Task3FinishZone : MonoBehaviour
         Debug.Log("Countdown finished!");
 
         // Add finish here
+        FindObjectOfType<GameManager>().stopTimer();
+        FindObjectOfType<GameManager>().levelComplete();
         taskEndScreen.ShowScreen();
         sounds.SetActive(false);
         forklift.GetComponent<ForkControl>().enabled = false;

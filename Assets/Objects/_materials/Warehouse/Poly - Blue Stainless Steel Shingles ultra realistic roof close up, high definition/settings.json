@@ -1,0 +1,21 @@
+{
+  "prompt_text": "Blue Stainless Steel Shingles ultra realistic roof close up, high definition",
+  "prompt_image": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/25a93e4c-af8d-4a82-ad4b-ec2fad72504c.png",
+    "patch_id": "9REmWJWVTp"
+  },
+  "upscale_prompt_text": "",
+  "upscale_resolution": 4096,
+  "is_seamless": true,
+  "pbr_mode": "diverse",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": false,
+  "pbr_generate_metallic": true
+}

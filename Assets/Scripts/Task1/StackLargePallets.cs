@@ -15,6 +15,8 @@ public class StackLargePallets : MonoBehaviour
     {
         yield return new WaitForSeconds(1);
 
+        FindObjectOfType<GameManager>().stopTimer();
+        FindObjectOfType<GameManager>().levelComplete();
         taskEndScreen.ShowScreen();
         sounds.SetActive(false);
         forklift.GetComponent<ForkControl>().enabled = false;

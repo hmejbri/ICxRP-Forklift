@@ -5,6 +5,7 @@ using System.IO;
 using System.IO.Ports;
 using System.Text.RegularExpressions;
 using System.Diagnostics;
+using System.Threading;
 
 public class ControllerInput : MonoBehaviour
 {
@@ -14,9 +15,11 @@ public class ControllerInput : MonoBehaviour
 
     [SerializeField] string portName;
     public SerialPort port;
-    string input;
+    string input = "";
 
     Regex regexString = new Regex(@"^-?[0-1](?:\|-?(?:0\.[0-9]{2}|1\.00)){4}$");
+
+    Thread serialThread;
 
     private void Start()
     {
@@ -39,17 +42,18 @@ public class ControllerInput : MonoBehaviour
         }
 
         port = new SerialPort(portName);
+        openPort(port);
+        serialThread = new Thread(readSerial);
+        serialThread.Start();
     }
 
-    private void Update()
+    private void openPort(SerialPort port)
     {
-        //Reading controller values from serial port
-        if (port == null) { return; }
-
         try
         {
             if (!port.IsOpen)
             {
+                port.BaudRate = 38400;
                 port.Open();
             }
         }
@@ -58,13 +62,23 @@ public class ControllerInput : MonoBehaviour
             errorCode = 2; //Serial port already in use
             return;
         }
+    }
+
+    private void Update()
+    {
+        //Reading controller values from serial port
+        if (port == null) { return; }
+        if (port.IsOpen) { input = port.ReadLine(); }
+        UnityEngine.Debug.Log(input);
 
         if (regexString.IsMatch(input))
         {
             string[] inputValues = input.Split("|");
 
             //Parsing the controller values to usable variables
-            gearValue = int.Parse(inputValues[0]);
+            int gearInput = int.Parse(inputValues[0]);
+            if (MathF.Abs(gearInput) == 1) { gearValue = gearInput; }
+
             for (int i = 1; i <= 4; i++)
             {
                 joystickValues[i - 1] = float.Parse(inputValues[i]);
@@ -78,7 +92,7 @@ public class ControllerInput : MonoBehaviour
         }
     }
 
-    private void FixedUpdate()
+    private void readSerial()
     {
         if (port.IsOpen) { input = port.ReadLine(); }
     }
