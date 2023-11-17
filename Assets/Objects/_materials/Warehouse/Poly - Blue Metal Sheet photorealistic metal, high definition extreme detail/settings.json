@@ -1,0 +1,21 @@
+{
+  "prompt_text": "Blue Metal Sheet photorealistic metal, high definition extreme detail",
+  "prompt_image": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/cf8bd688-8d97-4781-a1a9-26f73b7f5cfb.png",
+    "patch_id": "bm2xZZy5U4"
+  },
+  "upscale_prompt_text": "",
+  "upscale_resolution": 4096,
+  "is_seamless": true,
+  "pbr_mode": "shiny",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": true
+}
