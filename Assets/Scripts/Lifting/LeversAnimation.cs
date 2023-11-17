@@ -38,9 +38,9 @@ public class LeversAnimation : MonoBehaviour
         angleInputTilt = Mathf.Clamp(forkInputTilt * speed, -15, 15);
 
         //Apply the rotation
-        lever1.transform.localRotation = Quaternion.AngleAxis(angleInputY, Vector3.right);
-        lever2.transform.localRotation = Quaternion.AngleAxis(angleInputX, Vector3.right);
-        lever3.transform.localRotation = Quaternion.AngleAxis(angleInputSpread, Vector3.right);
+        lever1.transform.localRotation = Quaternion.AngleAxis(angleInputY, -Vector3.right);
+        lever2.transform.localRotation = Quaternion.AngleAxis(angleInputX, -Vector3.right);
+        lever3.transform.localRotation = Quaternion.AngleAxis(angleInputSpread, -Vector3.right);
         lever4.transform.localRotation = Quaternion.AngleAxis(angleInputTilt, Vector3.right);
     }
 }

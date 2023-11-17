@@ -53,9 +53,9 @@ public class VehicleInputProvider : MonoBehaviour
         if (brakeReference)
             t_brakeInput = brakeReference.action.ReadValue<float>();
 
-        forkInputY = input.port.IsOpen ? input.joystickValues[0] : joystickReference.action.ReadValue<Vector2>().y;
-        forkInputX = input.port.IsOpen ? input.joystickValues[1] : joystickReference.action.ReadValue<Vector2>().x;
-        forkInputSpread = input.port.IsOpen ? input.joystickValues[2] : forkSpreadReference.action.ReadValue<float>();
+        forkInputY = input.port.IsOpen ? -input.joystickValues[0] : joystickReference.action.ReadValue<Vector2>().y;
+        forkInputX = input.port.IsOpen ? -input.joystickValues[1] : joystickReference.action.ReadValue<Vector2>().x;
+        forkInputSpread = input.port.IsOpen ? -input.joystickValues[2] : forkSpreadReference.action.ReadValue<float>();
         forkInputTilt = input.port.IsOpen ? input.joystickValues[3] : forkTiltReference.action.ReadValue<float>();
     }
 }

@@ -216,7 +216,7 @@
                 {
                     "name": "",
                     "id": "2b26033d-6e1d-46c8-b1d9-e65ca13cd805",
-                    "path": "<XRController>{LeftHand}/primary2DAxis",
+                    "path": "<XRController>{RightHand}/primary2DAxis",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
